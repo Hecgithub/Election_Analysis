@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # The data we need to retrieve.
 #1. The total number of votes cast
@@ -140,7 +140,7 @@ with open(file_to_save,"w") as txt_file:
 
 
 
-=======
+
 
 # The data we need to retrieve.
 #1. The total number of votes cast
@@ -249,4 +249,4 @@ print(winning_candidate_summary)
 
 #Print the candidate vote dictionary 
 #print(candidate_votes)
->>>>>>> 7ac7b29121acd314e6a8b964036cd3da87e35e7d
+
