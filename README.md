@@ -16,17 +16,17 @@ congressional election.
 
 ## Summary
 The analysis of the election show that:
--There were 369,711 votes cast in the election.
--The candidates were: 
-    -Candidate Charles Casper Stockham
-    -Candidate Diana DeGette
-    -Candidate Raymon Anthony Doane
--The candidates results were:
-    -Candidate 1 recieved "23.0%" of the vote and "85,213" number of votes.
-    -Candidate 2 recieved "73.8%" of the vote and "272,892" number of votes.
-    -Candidate 3 recieved "3.1%" of the vote and  "11,606" number of votes.
--The winner of the election was:
-    -Candidate (2), who recieved a"73%" of the vote and "272,892" number of votes. 
+"*"There were 369,711 votes cast in the election.
+"*"The candidates were: 
+    "*"Candidate Charles Casper Stockham
+    "*"Candidate Diana DeGette
+    "*"Candidate Raymon Anthony Doane
+"*"The candidates results were:
+    "*"Candidate 1 recieved "23.0%" of the vote and "85,213" number of votes.
+    "*"Candidate 2 recieved "73.8%" of the vote and "272,892" number of votes.
+    "*"Candidate 3 recieved "3.1%" of the vote and  "11,606" number of votes.
+"*"The winner of the election was:
+    "*"Candidate (2), who recieved a"73%" of the vote and "272,892" number of votes. 
     
  ## Challenge Overview
     The process of conducting this project had its challenges around indentation and understanding the process of some code.
