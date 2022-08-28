@@ -16,7 +16,13 @@ congressional election.
 
 ## Summary
 The analysis of the election show that
-- There were 369,711 votes cast in the election.
+    - There were 369,711 votes cast in the election.
+- County votes: 
+    - Jefferson: 110.5% (38,855)
+    - Denver: 82.8% (306,055)
+    - Arapahoe: 6.7% (24,80
+- The largest number of votes.
+	-Denver over 80% of the votes
 - The candidates were: 
     - Candidate Charles Casper Stockham
     - Candidate Diana DeGette
@@ -29,10 +35,9 @@ The analysis of the election show that
     - Candidate (2), who recieved a"73%" of the vote and "272,892" number of votes. 
     
  ## Challenge Overview
-    The process of conducting this project had its challenges around indentation and understanding the process of some code.
-    
+ The election audit gives us a deeper understanding of where the highest number of votes by county. This gives us a broad understanding of where it is important to allocate resources when running for an election. Denver had more than 80% of the votes from all three counties. This is also a great opportunity to see what counties may potentially have more voters that are not voting and could be swayed for the next election.    
+ 
  ## Challenge Summary 
-    Overall we were able to analyse a large amount of data using various programs to give an output for results in an election.
-    I can see how these skills can be important when working with a large amount of data. 
+The script that was used tells us how many votes and the percentage there were by county and by the candidate. We can modify the script to tell us how many votes each candidate got from each county to give us a breakdown of who won in which counties. We could also modify the script to get the average amount of votes that each candidate got from each county.This script can be utilized with any election with few adjustments on swapping the CSV file and the code if there is more information to add.       
   
   
